@@ -115,8 +115,8 @@ AgriVision/
 
 ## Repository Files
 
-- **Original Dataset:** [AgriVision_Data_Raw.xlsx](data/AgriVision_Data_Raw.xlsx)
-- **Cleaned Dataset:** [AgriVision_Data_Cleaned.xlsx](data/AgriVision_Data_Cleaned.xlsx)
+- **Original Dataset:** [AgriVision_Data_Raw.xlsx](data/AgriVision_Data_Raw.csv)
+- **Cleaned Dataset:** [AgriVision_Data_Cleaned.xlsx](data/AgriVision_Data_Cleaned.xls)
 - **Python Analysis:** [AgriVision_Analysis.ipynb](notebooks/AgriVision_Analysis.ipynb)
 - **SQL Analysis:** [AgriVision_SQL_Analysis.sql](sql/AgriVision_SQL_Analysis.sql)
 - **Tableau Dashboard:** [AgriVision_Tableau.twbx](tableau/AgriVision_Tableau.twbx)
