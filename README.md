@@ -38,7 +38,7 @@ The objective of this project was to:
 The analysis is based on a comprehensive Indian agriculture dataset obtained from **Kaggle**, which consolidates data collected from multiple official government sources. The dataset covers various aspects of Indian agriculture, enabling analysis of crop production, climate, and cultivation patterns over time.
 
 **Dataset Overview**
--**Source:** [Kaggle – Agriculture Crop Production in India Dataset](LINK_TO_KAGGLE_DATASET)
+-**Source:** [Kaggle – Agriculture Crop Production in India Dataset](https://www.kaggle.com/datasets/asishpandey/crop-production-in-india)
 - **Coverage:** 28 years of Indian agricultural data
 - **Geographical Scope:** Multiple states across India
 - **Data Domains:** Crop production, yield, cultivated area, rainfall, temperature, soil pH, crop type, season, and other agricultural indicators
