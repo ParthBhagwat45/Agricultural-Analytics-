@@ -121,4 +121,10 @@ AgriVision/
 
 ## Note
 
+For detailed analysis, SQL queries, visualizations, insights, and recommendations, please refer to the Jupyter Notebook, SQL scripts, Tableau workbook, and Power BI dashboard included in this repository.
+
+---
+
+## Note
+
 For detailed analysis, visualizations, insights, and recommendations, please refer to the Jupyter Notebook, SQL analysis, Tableau workbook, and Power BI dashboard included in this repository.
