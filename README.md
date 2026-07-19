@@ -85,6 +85,7 @@ The project includes **four interactive dashboards** developed using **Tableau**
 
 ## Repository Structure
 
+```text
 AgriVision/
 │
 ├── README.md
@@ -102,9 +103,9 @@ AgriVision/
 ├── tableau/
 │   └── AgriVision_Tableau.twbx
 │
-├── powerbi/
+└── powerbi/
     └── AgriVision_PowerBI.pbix
-
+```
 ---
 
 ## Repository Files
