@@ -38,7 +38,7 @@ The objective of this project was to:
 The analysis is based on a comprehensive Indian agriculture dataset obtained from **Kaggle**, which consolidates data collected from multiple official government sources. The dataset covers various aspects of Indian agriculture, enabling analysis of crop production, climate, and cultivation patterns over time.
 
 **Dataset Overview**
-- **Source:** Kaggle *(compiled from official Indian government sources such as data.gov.in, MOSPI, and state agriculture websites)*
+- - **Source:** [Kaggle – Agriculture Crop Production in India Dataset](LINK_TO_KAGGLE_DATASET)
 - **Coverage:** 28 years of Indian agricultural data
 - **Geographical Scope:** Multiple states across India
 - **Data Domains:** Crop production, yield, cultivated area, rainfall, temperature, soil pH, crop type, season, and other agricultural indicators
@@ -81,6 +81,11 @@ The project includes **four interactive dashboards** developed using **Tableau**
 - **Crop Analysis:** Crop-wise production, yield comparison, cultivation trends, and regional distribution.
 - **Soil Analysis:** Soil pH, soil type classification, and their relationship with crop performance.
 
+### Interactive Dashboards
+
+- **Tableau Public:** [View Dashboard](...)
+- **Power BI:** [View Dashboard](...)
+
 ---
 
 ## Repository Structure
@@ -110,12 +115,12 @@ AgriVision/
 
 ## Repository Files
 
-- **Original Dataset:** AgriVision_Data_Raw.xlsx
-- **Cleaned Dataset:** AgriVision_Data_Cleaned.xlsx
-- **Python Analysis:** AgriVision_Analysis.ipynb
-- **SQL Analysis:** AgriVision_SQL_Analysis.sql
-- **Tableau Dashboard:** AgriVision_Dashboard.twbx
-- **Power BI Dashboard:** AgriVision_Dashboard.pbix
+- **Original Dataset:** [AgriVision_Data_Raw.xlsx](data/AgriVision_Data_Raw.xlsx)
+- **Cleaned Dataset:** [AgriVision_Data_Cleaned.xlsx](data/AgriVision_Data_Cleaned.xlsx)
+- **Python Analysis:** [AgriVision_Analysis.ipynb](notebooks/AgriVision_Analysis.ipynb)
+- **SQL Analysis:** [AgriVision_SQL_Analysis.sql](sql/AgriVision_SQL_Analysis.sql)
+- **Tableau Dashboard:** [AgriVision_Tableau.twbx](tableau/AgriVision_Tableau.twbx)
+- **Power BI Dashboard:** [AgriVision_PowerBI.pbix](powerbi/AgriVision_PowerBI.pbix)
 
 ---
 
